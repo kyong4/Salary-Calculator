@@ -1,0 +1,8 @@
+Last Name: Kishi 	Paid: $64.38
+Last Name:McGill 	Paid: $19.50
+Last Name:  Pike 	Paid: $23.81
+Last Name:Ramsey 	Paid: $75.00
+Last Name:Schafer 	Paid: $28.00
+Last Name: Spier 	Paid: $84.00
+Last Name:Thomas 	Paid: $19.00
+BUILD SUCCESSFUL (total time: 0 seconds)

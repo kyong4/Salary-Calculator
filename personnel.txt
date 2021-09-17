@@ -1,0 +1,43 @@
+0001
+McGill, Stacey
+231 Maple Avenue
+Stoneybrook, Connecticut 30122
+5.50	4.00	6.00
+
+0002
+Spier, Maryann
+401 Orange Lane 
+Stoneybrook, Connecticut 30122
+10.00	8.00	15.00
+
+0003
+Thomas, Kristy
+222 Blossom Blvd.
+Stoneybrook, Connecticut 30122
+5.00	4.00	6.00
+
+0004
+Schafer, Dawn
+131 Apple Gardens
+Stoneybrook, Connecticut 30122
+4.00	3.00	5.00
+
+0005
+Pike, Mallory
+656 Brook Lane
+Stoneybrook, Connecticut 30122
+1.75	1.00	1.25
+
+0006
+Ramsey, Jessi
+545 Greenleaf Street
+Stoneybrook, Connecticut 30122
+10.00	10.00	10.00
+
+0007
+Kishi, Claudia
+303 Ginger Blvd.
+Stoneybrook, Connecticut 30122
+5.00	2.50	7.50
+
+
